@@ -62,6 +62,12 @@ Y= A⊕B
 5.	For different input combinations generate the timing diagram.
 
 
+
+
+**AND GATE**
+
+
+
 **PROGRAM**
 
 ![321155193-ea8256d6-9793-43aa-9599-8edb471afa27](https://github.com/Aditaayan/study-of-basic-gates/assets/147473394/42721fa4-25cf-479c-ac62-c46eb4848116)
